@@ -4,4 +4,5 @@
 - Aim: to be comfortable with the language
 - Personal target: to commit atleast 1hs per day to learn python and completed projects, at least 5 days/week
 
+
   Good luck to me and happy learning! 
